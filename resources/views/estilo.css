@@ -1,0 +1,30 @@
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 29px;
+    display:block;
+
+}
+.menu li{
+ display: inline-block;
+ text-align: center;
+
+}
+
+.menu li a:hover{
+    background: cyan;
+}
+.leer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 99px;
+    text-align: center;
+    color: white;
+}
+.leer01{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+   
